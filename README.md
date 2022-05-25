@@ -32,6 +32,6 @@ Url Launcher ile telefonun varsalıyan tarayıcısı tarafından haber sitesine 
 
 - ## Hata Sayfası:
 
-Uygulama cihazın internete bağlı olduğunu kontrole eder eğer bağlı değilse veya sunucu tarafından bir hata varsa kullanıcıyı hata sayfasına yönlendirir.
+Uygulama, cihazın internete bağlı olduğunu kontrole eder eğer bağlı değilse veya sunucu tarafından bir hata varsa kullanıcıyı hata sayfasına yönlendirir.
 
 ![](https://www.linkpicture.com/q/6_519.png)
