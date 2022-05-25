@@ -1,17 +1,37 @@
 # newsapp
 
-A new Flutter project.
+Haberler Uygulaması
 
-## Getting Started
+https://collectapi.com/tr/api/news/haberler-api API faydalanarak geliştirilmiştir.
 
-This project is a starting point for a Flutter application.
+- Günlük son dakika haberler
+- Genel, spor, ekonomi ve teknoloji kategorilerinde son dakika haberleri
+- Haber sayfasına yönlendirme linki (url_launcher)
 
-A few resources to get you started if this is your first Flutter project:
+# Ekran Görüntüleri:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- ## Anasayfa:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Haberler-Uygulamas-Flutter
+![](https://www.linkpicture.com/q/1_97.png)
+
+- ## Haber Kategorileri:
+
+Spor Haberleri  |  Teknoloji Haberleri | 
+:-------------------------:|:-------------------------:
+![](https://www.linkpicture.com/q/2_104.png)  |  ![](https://www.linkpicture.com/q/3_49.png)
+
+- ## Haber Detay:
+
+![](https://www.linkpicture.com/q/4_243.png)
+
+- ## Haber Sayfası:
+
+Url Launcher ile telefonun varsalıyan tarayıcısı tarafından haber sitesine yönlendirme.
+
+![](https://www.linkpicture.com/q/5_184.png)
+
+- ## Hata Sayfası:
+
+Uygulama cihazın internete bağlı olduğunu kontrole eder eğer bağlı değilse veya sunucu tarafından bir hata varsa kullanıcıyı hata sayfasına yönlendirir.
+
+![](https://www.linkpicture.com/q/6_519.png)
