@@ -22,7 +22,7 @@ Spor Haberleri  |  Teknoloji Haberleri |
 
 - ## Haber Detay:
 
-![](https://www.linkpicture.com/q/4_243.png)
+//![](https://www.linkpicture.com/q/4_243.png)
 
 - ## Haber Sayfası:
 
